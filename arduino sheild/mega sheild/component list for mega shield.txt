@@ -1,0 +1,16 @@
+1x MegaShield PCB
+11x 8-pin Arduino Stackable Header
+1x Bright 5mm Green LED
+1x Bright 5mm Red LED
+2x 330 Ohm resistors
+1x Momentary push button
+1x 10k resistor
+
+
+
+************Features:*********************
+
+All Arduino Mega pins are brought to the top level
+5V and GND power busses
+Power and stat (connected to D13) LEDs
+Reset Button brought to top level
